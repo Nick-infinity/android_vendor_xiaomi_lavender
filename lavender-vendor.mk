@@ -1714,6 +1714,8 @@ PRODUCT_PACKAGES += \
     vendor.qti.hardware.fm@1.0 \
     libgpustats \
     libthermalclient \
+    libts_detected_face_hal \
+    libts_face_beautify_hal \
     com.quicinc.cne.api@1.0 \
     com.quicinc.cne.api@1.1 \
     com.quicinc.cne.constants@1.0 \
